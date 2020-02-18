@@ -1,2 +1,5 @@
 1)Create node project
 npm init
+2)Install express, mongoose
+npm install express mongoose
+3)Added gitignore for the node_module folder
