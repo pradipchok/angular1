@@ -1,0 +1,2 @@
+API details
+GET - localhost:3000/pages
