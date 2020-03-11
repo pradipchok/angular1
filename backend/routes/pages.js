@@ -31,7 +31,6 @@ router.get('/:slug', function (req, res) {
 * POST add page
 */
 router.post('/add-page', function (req, res) {
-
     var title = req.body.title;
     var slug = req.body.title.replace(/\s+/g, '-').toLowerCase();
     var content = req.body.content;

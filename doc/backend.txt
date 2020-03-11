@@ -1,2 +1,7 @@
 API details
+GET ALL Pages
 GET - localhost:3000/pages
+
+ADD page
+POST - localhost:3000/pages/add-page
+input - {"title": "Our Company", "Content": "My Content"}
